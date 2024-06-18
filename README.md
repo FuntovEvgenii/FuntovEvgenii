@@ -15,7 +15,7 @@
   </div>
 
 
-# Hello! 👋 I'm Evgeniy Funtov
+# Hello! 👋 I'm Evgenii Funtov
 
 ## About Me
 
