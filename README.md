@@ -2,8 +2,7 @@
 
 ## About Me
 
-I am a manual tester with experience in functional testing of web applications. Currently, I am actively learning and practicing test automation using the Robot Framework.
-
+I'm a manual tester transitioning into test automation. I'm passionate about ensuring the robust functionality of web applications through automation tests using Robot Framework. I specialize in crafting effective test scenarios and maintaining high-quality test documentation based on real-world projects.
 ## Skills and Interests
 
 - **Testing**: Experienced in manual functional testing of web applications. Familiar with major testing methodologies and software development life cycle.
